@@ -87,26 +87,23 @@ I thrive in creative and research-driven environments that challenge traditional
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/> |
 ## 📈 GitHub Stats
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadiasakharkar&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=sadiasakharkar&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiasakharkar&theme=dark" alt="GitHub Streak" /></p>
-  <p><img src="https://github-contributor-stats.vercel.app/api?username=sadiasakharkar&theme=dark" alt="GitHub Contribution Stats" /></p>
-  <p><img src="https://komarev.com/ghpvc/?username=sadiasakharkar&label=Profile%20views&color=FF4500&style=plastic" alt="Profile Views" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=purvarane&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=purvarane&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=purvarane&theme=dark" alt="GitHub Streak" /></p>
+  <p><img src="https://github-contributor-stats.vercel.app/api?username=purvarane&theme=dark" alt="GitHub Contribution Stats" /></p>
+  <p><img src="https://komarev.com/ghpvc/?username=purvarane&label=Profile%20views&color=FF4500&style=plastic" alt="Profile Views" /></p>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiasakharkar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purvarane&theme=github_dark" />
 </p>
-
 
 <p align="center">
-  <img src="https://github.com/sadiasakharkar/sadiasakharkar/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
+  <img src="https://github.com/purvarane/purvarane/raw/ffd4e81ed7a7f2706480e14b6762a555d56f8d37/github-snake.svg" alt="Snake Game" width="100%" height="400" style="margin-top: 10px;"/>
 </p>
-
 
 <p align="right">
   <a href="#top" style="text-decoration: none; font-size: 24px; color: #ff8c00; transition: color 0.3s;">
     ⬆️ Back to Top
   </a>
 </p>
-
