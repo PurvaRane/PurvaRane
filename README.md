@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Purva Rane</h1>
 <h3 align="center">Computer Engineering Student</h3>
 
-
 ## 👩‍🚀 About Me
 I am a dedicated and passionate Computer Engineering student, driven by curiosity and a deep interest in the intersection of software development, cybersecurity, and hardware systems. Currently pursuing my Diploma in Computer Engineering from Dr. Babasaheb Ambedkar Technological University, I am continuously expanding my knowledge across key domains such as ethical hacking, embedded programming, and AI-integrated system design.
 
