@@ -21,7 +21,7 @@ I thrive in creative and research-driven environments that challenge traditional
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="[www.linkedin.com/in/purva-rane-a9a81a292](http://www.linkedin.com/in/purva-rane26)" target="_blank">
+  <a href="http://www.linkedin.com/in/purva-rane26" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
