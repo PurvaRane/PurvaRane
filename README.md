@@ -30,40 +30,59 @@ I thrive in creative and research-driven environments that challenge traditional
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  ## 🚀 Skills & Technologies
+## 🧰 TECHNICAL SKILLS
 
-🔹 Programming Languages
-C	C++	Java	Python
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/>
+**Languages:** JavaScript, Python, SQL, C  
+**Web/Mobile:** React.js, React Native, Node.js, Firebase, MySQL  
+**AI Tools:** OpenAI APIs, AI/ML Model Integration  
+**Tools:** Git & GitHub, Canva, Figma  
+**Operating Systems:** Windows, Linux (Basics)  
+**Cybersecurity:** Basic Ethical Hacking Concepts (Ongoing)  
+**Embedded Systems:** Basic knowledge of Microcontrollers, Sensors, and Circuit Design (Learning Phase)
 
-🌐 Frontend Development
-HTML	CSS	JavaScript	ReactJS
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/>
+---
 
-🔌 Embedded Systems & Hardware
-Arduino	IoT	Sensor Integration	Serial Communication
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="55" height="55"/>	<img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" width="55" height="55"/>	<img src="https://www.iconpacks.net/icons/2/free-sensor-icon-2691-thumb.png" width="55" height="55"/>	<img src="https://cdn-icons-png.flaticon.com/512/3242/3242257.png" width="55" height="55"/>
+## 🚀 Skills & Technologies
 
-🔐 Cybersecurity & Ethical Hacking
-Ethical Hacking	Digital Forensics	Vulnerability Testing
-<img src="https://cdn-icons-png.flaticon.com/512/2920/2920061.png" width="55" height="55"/>	<img src="https://cdn-icons-png.flaticon.com/512/9068/9068872.png" width="55" height="55"/>	<img src="https://cdn-icons-png.flaticon.com/512/6578/6578997.png" width="55" height="55"/>
+### 🔹 Languages
+| C | C++ | Java | Python |
+|---|-----|------|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/> |
 
-☁️ Backend & Database
-Node.js	MySQL	Firebase
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="55" height="55"/>
+### 🌐 Frontend Web Development
+| HTML | CSS | JavaScript | ReactJS |
+|------|-----|------------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/> |
 
-🤖 AI & ML Tools
-OpenAI API	Scikit-learn	NumPy	Pandas	AI Model Integration
-<img src="https://cdn.worldvectorlogo.com/logos/openai-icon.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="55" height="55"/>	<img src="https://cdn-icons-png.flaticon.com/512/2400/2400269.png" width="55" height="55"/>
+### 🛠️ Backend Development & Databases
+| Node.js | MongoDB | MySQL | Firebase |
+|---------|---------|-------|----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="55" height="55"/> |
 
-📱 Mobile App Development
-Android Studio	React Native
-<img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="55" height="55"/>	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/>
+### ⚙️ Python Frameworks
+| Flask | FastAPI |
+|-------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="55" height="55"/> |
 
-🔧 Version Control & Collaboration
-Git	GitHub
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/>	<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55"/>
 
-🧠 Other Tools & Platforms
-Canva	Figma	Vercel
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="55" height="55"/>	<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/>	<img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="55" height="55"/>
+### 📱 Mobile App Development
+| Android Studio | React Native |
+|----------------|--------------|
+| <img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/> |
+
+### 🔧 Version Control & Collaboration
+| Git | GitHub |
+|-----|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="55" height="55"/> |
+
+### 🚀 Deployment Tools
+| Vercel | GitHub Actions |
+|--------|----------------|
+| <img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="55" height="55"/> |
+
+### 🎨 Design & Prototyping Tools
+| Figma |
+|-------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/> |
+
+
