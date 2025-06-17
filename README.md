@@ -85,6 +85,9 @@ I thrive in creative and research-driven environments that challenge traditional
 | Figma |
 |-------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/> |
+## 🔥 Languages & Tools Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purvarane&layout=compact&theme=dark&langs_count=10)
+
 ## 📈 GitHub Stats
 
 <div align="center">
