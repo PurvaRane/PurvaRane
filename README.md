@@ -85,22 +85,5 @@ I thrive in creative and research-driven environments that challenge traditional
 |-------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="55" height="55"/> |
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=purvarane&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=purvarane&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=purvarane&theme=dark" alt="GitHub Streak" /></p>
-  <p><img src="https://github-contributor-stats.vercel.app/api?username=purvarane&theme=dark" alt="GitHub Contribution Stats" /></p>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=purvarane&theme=github_dark" />
-</p>
-
-<p align="right">
-  <a href="#top" style="text-decoration: none; font-size: 24px; color: #ff8c00; transition: color 0.3s;">
-    ⬆️ Back to Top
-  </a>
-</p>
 
