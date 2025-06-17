@@ -15,3 +15,18 @@ With growing experience in hardware-software integration, I aim to work on embed
 
 I thrive in creative and research-driven environments that challenge traditional boundaries and encourage interdisciplinary collaboration. My vision is to innovate responsibly at the intersection of intelligence, security, and embedded engineering — contributing to a smarter, safer, and more connected world.
 
+## 📫 Connect with Me
+<p align="left">
+  <a href="mailto:purvarane.2623@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/purva-rane-a9a81a292" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/purvarane2608_89296" target="_blank">
+    <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="Discord" height="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  
